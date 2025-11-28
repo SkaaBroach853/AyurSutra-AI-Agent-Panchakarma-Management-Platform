@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#e8f5e9" />
+  <path d="M60 80 C 60 60, 140 60, 140 80 L 130 130 C 130 140, 70 140, 70 130 Z" fill="#c8e6c9" stroke="#2e7d32" stroke-width="2" />
+  <path d="M90 60 L 90 40 C 90 30, 110 30, 110 40 L 110 60" stroke="#2e7d32" stroke-width="2" fill="none" />
+  <path d="M80 90 L 120 90 M 80 100 L 120 100 M 80 110 L 120 110" stroke="#1b5e20" stroke-width="1" />
+  <text x="100" y="180" font-family="Arial" font-size="14" text-anchor="middle" fill="#1b5e20">Tulsi Tea</text>
+</svg>
