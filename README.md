@@ -1,73 +1,121 @@
-# Welcome to your Lovable project
+# 🌿 AyurSutra – AI-Agent Panchakarma Wellness & Healthcare Platform
 
-## Project info
+AyurSutra is an intelligent **AI-powered Panchakarma treatment management and wellness automation system**, designed to modernize traditional Ayurvedic health practice with real-time decision-making, dose monitoring, patient tracking, and herbal recommendation automation.
 
-**URL**: https://lovable.dev/projects/4035c5e8-7b54-44c9-ac84-08823ed1bd70
+Built for Clinics, Wellness Centers & Holistic Healing Platforms — AyurSutra blends **ancient ayurvedic science** with **modern AI autonomy**, enabling personalized treatment guidance at scale.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🚀 Core Vision
 
-**Use Lovable**
+🟢 Bridge Traditional Ayurveda × AI Technology  
+🟢 Automate Panchakarma Treatment Planning  
+🟢 Bring Authentic Herbal Therapy Into the Digital Future  
+🟢 Build India’s Largest AI-Ayurveda Treatment Intelligence Engine  
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/4035c5e8-7b54-44c9-ac84-08823ed1bd70) and start prompting.
+AyurSutra empowers physicians, therapists & researchers with **AI-assisted insights, procedure guidance, dosage reasoning, and patient-specific recommendation analytics.**
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🧠 System Capabilities
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+| Feature | Description |
+|--------|-------------|
+| 🧘 AI-Agent Panchakarma Model | Personalized treatment plan, body constitution (Prakriti) analysis |
+| 🩺 Patient Intake & Diagnosis | Tracks symptoms, Dosha imbalance, past medication, allergies |
+| 🫧 Therapy Recommendation Engine | Suggests Panchakarma therapies like Vamana, Virechana, Basti, Nasya, Raktamokshana |
+| 🌿 Herbal & Aushadhi Advisor | Suggests medicines, formulation dosage, contraindications |
+| 📊 Progress Tracking & Reports | Session logs, vitals, discomfort score, cleansing outcomes |
+| 🔥 Emergency Safety Triggers | Alerts during excessive cleansing, dehydration, detox reactions |
+| 💬 AI Chat Practitioner | Live conversational guidance for doctors and patients |
+| 🧾 Multi-format Reports | Export prescription, therapy flow, diet charts, follow-up plan |
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🛠 Tech Architecture
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
 ```
 
-**Edit a file directly in GitHub**
+React + Vite Frontend
+TailwindCSS Styling
+TypeScript Codebase
+AI Agent API Layer
+Future Extensions → LLM Fine-tuned on Ayurvedic Granthas
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+```
 
-**Use GitHub Codespaces**
+The system is modular, scalable & ready for deployment on clinical cloud infrastructure.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+## 📌 Project Structure
 
-This project is built with:
+```
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+📁 src
+├─ components  → UI elements for treatment interface
+├─ pages       → Dashboard, Treatment Planner, Patient View
+├─ hooks       → Custom state logic for agents & health metrics
+├─ context     → Global state management
+├─ utils       → Dosha analysis, cleansing cycle functions
+├─ assets      → Herbal images, illustrations
+├─ styles      → Theme + layout formatting
+📁 public       → App entry + static files
 
-## How can I deploy this project?
+```
 
-Simply open [Lovable](https://lovable.dev/projects/4035c5e8-7b54-44c9-ac84-08823ed1bd70) and click on Share -> Publish.
+---
 
-## Can I connect a custom domain to my Lovable project?
+## 🧭 Roadmap
 
-Yes, you can!
+| Stage | Target |
+|-------|--------|
+| Phase 1 | AI Panchakarma Decision Engine |
+| Phase 2 | Doctor-Assist Multi-Agent Network |
+| Phase 3 | Ayurvedic Medicine Recommender Linked To Inventory |
+| Phase 4 | Mobile App + Wearable Vitals Integration |
+| Phase 5 | Hospital Deployment + Government Ayurveda Digitization Proposal |
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+---
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+## 🌎 Real-World Use-Cases
+
+✔ Panchakarma Hospitals & Therapy Units  
+✔ Ayurvedic Doctors & Practitioners  
+✔ Preventive Wellness Clinics  
+✔ Body Detoxification & Rejuvenation Labs  
+✔ Panchakarma Training & Research Institutions  
+
+---
+
+## 🏥 Why This Matters
+
+Ayurveda is India’s oldest medical science — but **digitization is still 95 percent behind modern medicine**.
+
+AyurSutra is built to change that.
+
+A future where AI-powered Ayurvedic doctors guide Panchakarma, herbal dosage is optimized, and treatment becomes **personalized, scientific and globally scalable.**
+
+This is not just a project —  
+✨ This is Healthcare Reinvented.
+
+---
+
+## 🔗 Contribution
+
+Interested contributors are welcome.
+
+```
+
+Fork → Feature → Pull Request → Review → Merge
+
+```
+
+---
+
+## ⭐ Show Support
+
+If you believe Ayurveda deserves global technological uplift —  
+Give this project a ⭐ on GitHub.
+
+Every star is one step toward a digitized Ayurvedic future 🌿
