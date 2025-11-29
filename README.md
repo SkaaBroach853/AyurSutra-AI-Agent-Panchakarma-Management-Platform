@@ -4,6 +4,7 @@ AyurSutra is an intelligent **AI-powered Panchakarma treatment management and we
 
 Built for Clinics, Wellness Centers & Holistic Healing Platforms — AyurSutra blends **ancient ayurvedic science** with **modern AI autonomy**, enabling personalized treatment guidance at scale.
 
+**👉 Try Live Now** → https://ayur-sutra-ai-agent-panchakarma-man.vercel.app/
 ---
 
 ## 🚀 Core Vision
